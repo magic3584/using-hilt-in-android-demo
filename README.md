@@ -3,6 +3,9 @@
 This is a sample project demonstrating the use of Hilt dependency injection in Android applications.
 Following the codelab from [Google Codelabs](https://codelabs.developers.google.com/codelabs/android-hilt).
 
+# License
+Refer to [license](https://developer.android.com/license)
+
 ## Environment Requirements
 
 - JDK: 17
